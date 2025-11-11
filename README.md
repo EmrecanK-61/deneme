@@ -1,4 +1,4 @@
-# MediNote  (İlaç Htatırlatma uygulaması)
+# MediNote  (İlaç Hatırlatma uygulaması)
 
 Grup Adı:Ctrl+Alt+ilaç
 
@@ -13,4 +13,4 @@ Günümüzde birçok kişi ilaç kullanımında bir düzenlilik sağlamak zorund
 
 Proje raporları:
 -[Fizibilete raporu (https://www.overleaf.com/project/68f8ec39ce7c0920db2b9885)]
-Projemiz SWOT analizi aşamasındadır
+-Projemiz SWOT analizi aşamasındadır
